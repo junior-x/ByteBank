@@ -25,8 +25,7 @@ export const Botao = styled.button`
   margin: 15px auto 0px auto;
   display: block;
   border-radius: 20px;
-  background-color: #7E3D90
-;
+  background-color: #7e3d90;
   border: none;
   color: white;
   font-weight: 600;
@@ -36,7 +35,7 @@ export const Botao = styled.button`
 `;
 
 export const Detalhe = styled.span`
-  color: #7E3D90;
+  color: #7e3d90;
   font-size: 24px;
 `;
 
