@@ -5,7 +5,7 @@ ByteBank development in ReactJs App
 
 v 0.0.2
 
-![Image of UI](.src/assets/images/bytebank-screen-v2.png)
+![Image of UI](https://raw.githubusercontent.com/vampyrsoda/ByteBank/main/src/assets/images/bytebank-screen-v2.png)
 
 ---------
 
