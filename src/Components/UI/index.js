@@ -9,7 +9,7 @@ export const Box = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: white;
+  background-color: ${({theme}) => theme.inside};
   border-radius: 5px;
   box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.04);
   padding: 20px;
@@ -20,6 +20,8 @@ export const Box = styled.div`
     margin: 5px;
   }
 `;
+
+/*#7e3d90*/
 
 export const Botao = styled.button`
   margin: 15px auto 0px auto;
