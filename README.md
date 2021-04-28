@@ -12,7 +12,7 @@ v 0.0.3
 
 
 
-v 0.0.2
+`v 0.0.2`
 
 *Box for each details hooked from api.*
 
@@ -20,6 +20,6 @@ v 0.0.2
 
 ---------
 
-v 0.0.1
+`v 0.0.1`
 
 ![Image of UI](./src/assets/images/bytebank-screen.png)
